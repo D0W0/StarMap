@@ -4,9 +4,9 @@
  * !!!           Utilisez la liste ci-après pour remplir les champs CH13 et CH23.
  * ================================================================================================ *
  * CANDIDAT(E) 1
- *   CH11 Adresse de courriel universitaire de Rennes 1 : TODO
- *   CH12 Numéro d'étudiant : TODO
- *   CH13 Groupe et encadrant de TP habituel : TODO
+ *   CH11 Adresse de courriel universitaire de Rennes 1 : dorian.vincent@etudiant.univ-rennes1.fr
+ *   CH12 Numéro d'étudiant : 23107060
+ *   CH13 Groupe et encadrant de TP habituel : IE5 Théo Losekoot
  * ================================================================================================ *
  * CANDIDAT(E) 2
  *   CH21 Adresse de courriel universitaire de Rennes 1 : TODO
